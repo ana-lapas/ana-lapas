@@ -9,5 +9,4 @@ Você pode entrar em contato comigo:
 - 🌱 Atualmente estou estudando Next.js
 - 
 ![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-lapas&show_icons=true&theme=synthwave)
-[![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-lapas)]
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-lapas&hide_progress=true&theme=synthwave)
