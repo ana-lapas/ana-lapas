@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Olá, eu sou a Ana. Estou finalizando meu primeiro bootcamp na Driven Education voltada para desenvolvimendo full-stack onde aprendi sobre várias tecnologias diferentes como: HTML, CSS, JavaScript, TypeScript, Node, React e também sobre banco de dados sequênciais (PostgreSQL) e não-seuqênciais (MongoDB). 
+Olá, eu sou a Ana. Estou finalizando meu primeiro bootcamp na Driven Education voltada para desenvolvimendo full-stack onde aprendi sobre várias tecnologias diferentes como: HTML, CSS, JavaScript, TypeScript, Node, React e também sobre banco de dados sequenciais (PostgreSQL) e não-sequenciais (MongoDB). 
 
 Amo tecnologia e sou apaixonada pelo meio-ambiente (tanto que me formei em engenharia ambiental em dezembro/2022). 
 Estou aberta para colaborar em projetos full-stack. 
