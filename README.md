@@ -25,8 +25,8 @@ Estou aberta para colaborar em projetos full-stack.
   <img align="center" alt="Ana-Js" height="30" width="105" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="Ana-Ts" height="30" width="105" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
    <img align="center" alt="Ana-node" height="30" width="75" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-   <img align="center" alt="Ana-Postgresql" height="30" width="140" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+   <img align="center" alt="Ana-Postgresql" height="30" width="130" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
    <img align="center" alt="Ana-MongoDB" height="30" width="100" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img align="center" alt="Ana-Linux" height="30" width="70" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img align="center" alt="Ana-Jest" height="30" width="80" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
+
 </div>
