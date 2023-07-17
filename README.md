@@ -6,7 +6,6 @@ Amo tecnologia e sou apaixonada pelo meio-ambiente (tanto que me formei em engen
 Estou aberta para colaborar em projetos full-stack. 
 
 - 🔭 Trabalhando no desenvolvimento do e-commerce Power-Source.
-- 🌱 Estou estudando Next.js
 - 📫 Você pode entrar em contato comigo pelo e-mail: anapaulalapas@gmail.com 
 
 <a href="https://github.com/ana-lapas/convoychat">
