@@ -11,10 +11,6 @@ Estou aberta para colaborar em projetos full-stack.
   <img height=200 align="center" theme="cobalt" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=cobalt" />
 </a> 
 
-<a href="https://github.com/ana-lapas/github-readme-stats">
-  <img height=200 align="center" theme="cobalt" src="https://github-readme-stats.vercel.app/api?username=ana-lapas&theme=cobalt" />
-</a>
-
 <div style="display: inline_block"><br>
    <img align="center" alt="Ana-HTML" height="30" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Ana-CSS" height="30" width="80" 
