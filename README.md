@@ -1,9 +1,22 @@
-### Hi there 👋
+# Olá, eu sou a Ana Paula! 👋  
 
-Olá, eu sou a Ana. Atualmente sou estagiária de Desenvolvimento de Software na Investtools e estou cursando Ciências de Dados pela UFMS. Finalizei o bootcamp de full-stack development voltado para Web na Driven Education voltada para desenvolvimendo full-stack onde aprendi sobre várias tecnologias diferentes como: HTML, CSS, JavaScript, TypeScript, Node, React e também sobre banco de dados sequenciais (PostgreSQL) e não-sequenciais (MongoDB). 
+🎓 **Formação e Experiência:**  
+- Atualmente sou estagiária de **Desenvolvimento de Software** na **Investtools**, onde trabalho em soluções para o mercado financeiro.  
+- Cursando **Ciências de Dados** pela **UFMS** desde fevereiro de 2024.  
+- Graduação em **Engenharia Ambiental** (dezembro/2022), unindo minha paixão por tecnologia e sustentabilidade.  
+- Completei o **Bootcamp de Full-Stack Development** na Driven Education, onde desenvolvi habilidades práticas em tecnologias como:  
+  - **Frontend:** HTML, CSS, JavaScript, TypeScript, React  
+  - **Backend:** Node.js  
+  - **Banco de Dados:** PostgreSQL (relacional) e MongoDB (não relacional)  
 
-Amo tecnologia e sou apaixonada pelo meio-ambiente (tanto que me formei em engenharia ambiental em dezembro/2022). 
-Estou aberta para colaborar em projetos full-stack. 
+💻 **Projetos em Desenvolvimento:**  
+Atualmente, estou trabalhando em um **MVP de Controle Financeiro** que integra a API da **Eduzz**, com foco na automação e simplificação da gestão financeira.  
+
+🌱 **Interesses:**  
+Sou apaixonada por tecnologia e meio ambiente, sempre buscando unir inovação e sustentabilidade.  
+
+🤝 **Colaborações:**  
+Estou aberta a colaborar em projetos **full-stack e análise de dados** que desafiem minha criatividade e me permitam aplicar minhas habilidades para criar soluções impactantes.  
 
 📫 Você pode entrar em contato comigo pelo e-mail: anapaulalapas@gmail.com 
 
