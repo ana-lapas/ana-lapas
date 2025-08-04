@@ -1,23 +1,52 @@
-# Olá, eu sou a Ana Paula! 👋  
+# Olá, eu sou a Ana Paula! 👋
 
-🎓 **Formação e Experiência:**  
-- Atualmente sou estagiária de **Desenvolvimento de Software** na **Investtools**, onde trabalho em soluções para o mercado financeiro.  
-- Cursando **Ciências de Dados** pela **UFMS** desde fevereiro de 2024.  
-- Graduação em **Engenharia Ambiental** (dezembro/2022), unindo minha paixão por tecnologia e sustentabilidade.  
-- Completei o **Bootcamp de Full-Stack Development** na Driven Education, onde desenvolvi habilidades práticas em tecnologias como:  
-  - **Frontend:** HTML, CSS, JavaScript, TypeScript, React  
-  - **Backend:** Node.js  
-  - **Banco de Dados:** PostgreSQL (relacional) e MongoDB (não relacional)  
+### Engenheira de Dados Júnior | Cloud & DevOps | Python | SQL
 
-💻 **Projetos em Desenvolvimento:**  
-Atualmente, estou trabalhando em um **MVP de Controle Financeiro** que integra a API da **Eduzz**, com foco na automação e simplificação da gestão financeira.  
+Bem-vindo(a) ao meu perfil! Sou uma profissional com experiência em desenvolvimento de software e com uma transição de carreira focada em Engenharia de Dados. Meu objetivo é construir soluções eficientes e escaláveis, utilizando o poder da nuvem, da automação e de uma mentalidade de aprendizado contínuo.
 
-🌱 **Interesses:**  
-Sou apaixonada por tecnologia e meio ambiente, sempre buscando unir inovação e sustentabilidade.  
+---
 
-🤝 **Colaborações:**  
-Estou aberta a colaborar em projetos **full-stack e análise de dados** que desafiem minha criatividade e me permitam aplicar minhas habilidades para criar soluções impactantes.  
+### 🚀 Stack Tecnológico
 
+| Categoria                      | Tecnologias                                                               |
+| ------------------------------ | ------------------------------------------------------------------------- |
+| **Linguagens** | Python (Django, Flask), SQL, Node.js, JavaScript (ES6+), Bash             |
+| **Cloud & DevOps** | **AWS** (EC2, S3, RDS, Lambda, IAM, CloudFormation), **GCP** (BigQuery, Cloud Storage), Firebase, Heroku |
+| **Infraestrutura como Código** | AWS CloudFormation, Terraform (em estudo)                                 |
+| **Contêineres & Orquestração** | Docker, Kubernetes (conhecimento básico)                                  |
+| **Ferramentas de CI/CD** | GitHub Actions, Bitbucket Pipelines, AWS CodePipeline                     |
+| **Bancos de Dados** | PostgreSQL, MySQL, MongoDB, DynamoDB, Redis, BigQuery, Redshift           |
+| **APIs** | APIs RESTful, versionamento, autenticação, Swagger/OpenAPI                |
+| **Controle de Versão** | Git, GitHub, Bitbucket                                                    |
+| **Monitoramento & Logging** | Experiência básica em monitoramento (Prometheus, Grafana, ELK Stack)      |
+| **Metodologias** | Agile (Scrum, Kanban), DevOps, princípios SRE                             |
+
+---
+
+### 💻 Experiência Profissional
+
+- **Investtools:** Atuo como Estagiária de Desenvolvimento de Software, com foco na **squad de dados**. Minhas responsabilidades incluem a **manutenção de pipelines de dados** e a implementação de soluções de infraestrutura com AWS, GCP e Docker.
+- **Habilis:** Como Desenvolvedora Freelancer, construí um sistema Full Stack usando Python (Django) e PostgreSQL, com deploy em AWS e pipelines de CI/CD.
+
+---
+
+### 🌱 Interesses
+
+Sou apaixonada por projetos que me desafiam a otimizar processos e construir infraestruturas de dados robustas. Tenho interesse em Big Data, automação e aprendizado contínuo.
+
+---
+
+### 🤝 Conecte-se comigo!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seu-perfil)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:analeao.software@gmail.com)
+
+### 🤝 Colaboração
+
+- Estou aberta a colaborar em projetos de **Engenharia de Dados** e **Automação** que me permitam aplicar e expandir minhas habilidades.
+- Vamos nos conectar! Sinta-se à vontade para entrar em contato pelo [LinkedIn](https://www.linkedin.com/in/ana-paula-leao).
+  
 📫 Você pode entrar em contato comigo pelo e-mail: anapaulalapas@gmail.com 
 
 <a href="https://github.com/ana-lapas/convoychat">
