@@ -1,68 +1,72 @@
 # Olá, eu sou a Ana Paula! 👋
 
-### Engenheira de Dados Júnior | Cloud & DevOps | Python | SQL
+### Desenvolvedora Full Stack & Data Engineer | AWS & Azure Certified ☁️
+*Especialista em sustentação de sistemas, pipelines de dados e automação.*
 
-Bem-vindo(a) ao meu perfil! Sou uma profissional com experiência em desenvolvimento de software e com uma transição de carreira focada em Engenharia de Dados. Meu objetivo é construir soluções eficientes e escaláveis, utilizando o poder da nuvem, da automação e de uma mentalidade de aprendizado contínuo.
-
----
-
-### 🚀 Stack Tecnológico
-
-| Categoria                      | Tecnologias                                                               |
-| ------------------------------ | ------------------------------------------------------------------------- |
-| **Linguagens** | Python (Django, Flask), SQL, Node.js, JavaScript (ES6+), Bash             |
-| **Cloud & DevOps** | **AWS** (EC2, S3, RDS, Lambda, IAM, CloudFormation), **GCP** (BigQuery, Cloud Storage), Firebase, Heroku |
-| **Infraestrutura como Código** | AWS CloudFormation, Terraform (em estudo)                                 |
-| **Contêineres & Orquestração** | Docker, Kubernetes (conhecimento básico)                                  |
-| **Ferramentas de CI/CD** | GitHub Actions, Bitbucket Pipelines, AWS CodePipeline                     |
-| **Bancos de Dados** | PostgreSQL, MySQL, MongoDB, DynamoDB, Redis, BigQuery, Redshift           |
-| **APIs** | APIs RESTful, versionamento, autenticação, Swagger/OpenAPI                |
-| **Controle de Versão** | Git, GitHub, Bitbucket                                                    |
-| **Monitoramento & Logging** | Experiência básica em monitoramento (Prometheus, Grafana, ELK Stack)      |
-| **Metodologias** | Agile (Scrum, Kanban), DevOps, princípios SRE                             |
+Vim da engenharia ambiental e hoje atuo na interseção entre **Engenharia de Software (Full Stack)** e **Ciência de Dados**. Meu foco é garantir que aplicações complexas continuem rodando e que os dados cheguem corretamente para a tomada de decisão.
 
 ---
 
-### 💻 Experiência Profissional
+### 💼 Como posso ajudar o seu negócio? (Serviços Freelance)
 
-- **Investtools:** Atuo como Estagiária de Desenvolvimento de Software, com foco na **squad de dados**. Minhas responsabilidades incluem a **manutenção de pipelines de dados** e a implementação de soluções de infraestrutura com AWS, GCP e Docker.
-- **Habilis:** Como Desenvolvedora Freelancer, construí um sistema Full Stack usando Python (Django) e PostgreSQL, com deploy em AWS e pipelines de CI/CD.
-
----
-
-### 🌱 Interesses
-
-Sou apaixonada por projetos que me desafiam a otimizar processos e construir infraestruturas de dados robustas. Tenho interesse em Big Data, automação e aprendizado contínuo.
+* **Manutenção Web (Frontend/Backend):** Evolução de sistemas em **React**, **Node.js** e **Python**.
+* **Integração de Dados & BI:** Criação e monitoramento de scripts ETL para alimentar dashboards (Power BI).
+* **Automação & Scripts:** Desenvolvimento de rotinas para automatizar tarefas repetitivas.
+* **Infraestrutura Cloud:** Suporte e configuração de ambientes na **AWS** e **Azure**.
 
 ---
 
-### 🤝 Conecte-se comigo!
+### 🛠️ Stack Tecnológico
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seu-perfil)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:analeao.software@gmail.com)
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Node](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) |
+| **Backend** | Django, Flask, Express.js, NestJS, APIs RESTful |
+| **Frontend** | React, HTML5, CSS3, Styled-components |
+| **Dados & IA** | Pandas, NumPy, PySpark, LSTM (Deep Learning), Power BI |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) GitHub Actions |
+| **Bancos de Dados** | PostgreSQL, MySQL, MongoDB, Redis |
 
-### 🤝 Colaboração
+---
 
-- Estou aberta a colaborar em projetos de **Engenharia de Dados** e **Automação** que me permitam aplicar e expandir minhas habilidades.
-- Vamos nos conectar! Sinta-se à vontade para entrar em contato pelo [LinkedIn](https://www.linkedin.com/in/ana-paula-leao).
-  
-📫 Você pode entrar em contato comigo pelo e-mail: anapaulalapas@gmail.com 
+### 🏆 Experiência & Projetos
 
-<a href="https://github.com/ana-lapas/convoychat">
-  <img height=200 align="center" theme="cobalt" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=cobalt" />
-</a> 
+#### 🔹 Sustentação de CRM & Dados | *Habilis*
+* **O Papel:** Manutenção de código e garantia da integridade de dados.
+* **Atividades:**
+    * Manutenção e evolução de funcionalidades no CRM da empresa utilizando **React** e **TypeScript**.
+    * Monitoramento de pipelines **ETL** que alimentam dashboards estratégicos de controle interno no **Power BI**.
+      
+#### 🔹 Engenharia de Software & Dados | *Investtools*
+* **O Papel:** Estagiária nas Squads de Desenvolvimento e Dados.
+* **Atividades:**
+    * **Dev:** Desenvolvimento e manutenção de APIs e serviços backend para sistemas financeiros.
+    * **Dados:** Manutenção de pipelines de dados e suporte à infraestrutura em nuvem (**AWS/GCP**).
 
-<div style="display: inline_block"><br>
-   <img align="center" alt="Ana-HTML" height="30" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Ana-CSS" height="30" width="80" 
-    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    
-  <img align="center" alt="Ana-Js" height="30" width="105" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="Ana-Ts" height="30" width="105" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-   <img align="center" alt="Ana-node" height="30" width="75" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-   <img align="center" alt="Ana-Postgresql" height="30" width="130" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-   <img align="center" alt="Ana-MongoDB" height="30" width="100" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img align="center" alt="Ana-Linux" height="30" width="70" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+#### 🔹 Previsão Hidrológica com IA | *Mestrado (UEMS)*
+* **O Projeto:** Modelo preditivo usando **Redes Neurais (LSTM)**.
+* **Tech:** Processamento de 30 anos de dados hidrometeorológicos para previsão de vazões e gestão de risco hídrico.
 
+---
+
+### 💜 Comunidade & Certificações
+
+* **Embaixadora Developer Girls:** Atuo no networking e divulgação de iniciativas para mulheres na tecnologia.
+* **Certificações:**
+    * ☁️ AWS Certified Cloud Practitioner (CLF-C02)
+    * 🤖 Microsoft Certified: Azure AI Fundamentals (AI-900)
+
+---
+
+### 📫 Vamos trabalhar juntos?
+
+Tem um sistema precisando de ajustes ou dados precisando de organização?
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/ana-paula-leao" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:anapaulalapas@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
