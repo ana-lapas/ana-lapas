@@ -1,72 +1,47 @@
 # Olá, eu sou a Ana Paula! 👋
 
-### Desenvolvedora Full Stack & Data Engineer | AWS & Azure Certified ☁️
-*Especialista em sustentação de sistemas, pipelines de dados e automação.*
+### Backend & Data Engineer | AWS & Azure Certified ☁️
 
-Vim da engenharia ambiental e hoje atuo na interseção entre **Engenharia de Software (Full Stack)** e **Ciência de Dados**. Meu foco é garantir que aplicações complexas continuem rodando e que os dados cheguem corretamente para a tomada de decisão.
-
----
-
-### 💼 Como posso ajudar o seu negócio? (Serviços Freelance)
-
-* **Manutenção Web (Frontend/Backend):** Evolução de sistemas em **React**, **Node.js** e **Python**.
-* **Integração de Dados & BI:** Criação e monitoramento de scripts ETL para alimentar dashboards (Power BI).
-* **Automação & Scripts:** Desenvolvimento de rotinas para automatizar tarefas repetitivas.
-* **Infraestrutura Cloud:** Suporte e configuração de ambientes na **AWS** e **Azure**.
+Engenheira Ambiental em transição para a tecnologia, unindo o rigor analítico da engenharia com o poder da **Engenharia de Software** e **Ciência de Dados**. Atuo na construção de sistemas escaláveis, manutenção de APIs e arquiteturas de dados de alto impacto.
 
 ---
 
-### 🛠️ Stack Tecnológico
+## 📈 Impacto e Resultados
+
+### 🔹 **Investtools** | Engenharia de Software e Dados
+- **Otimização de Performance:** Manutenção de APIs críticas e consultas SQL complexas, garantindo baixa latência em operações financeiras.
+- **Resiliência de Dados:** Sustentação de pipelines ETL/ELT, reduzindo falhas e garantindo integridade para áreas de negócio.
+
+### 🔹 **Mestrado (UEMS)** | Inteligência Artificial & Big Data
+*Foco: Modelagem Preditiva Complexa*
+- **Engenharia de Séries Temporais:** Processamento e limpeza de **30 anos de dados** brutos para modelos de alta precisão.
+- **Deep Learning:** Desenvolvimento de modelos **LSTM** para previsão de vazões e gestão de riscos hídricos.
+
+---
+
+## 🛠️ Stack Tecnológico
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Node](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) |
-| **Backend** | Django, Flask, Express.js, NestJS, APIs RESTful |
-| **Frontend** | React, HTML5, CSS3, Styled-components |
-| **Dados & IA** | Pandas, NumPy, PySpark, LSTM (Deep Learning), Power BI |
-| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) GitHub Actions |
-| **Bancos de Dados** | PostgreSQL, MySQL, MongoDB, Redis |
+| **Backend & APIs** | Python (Django, Flask), Node.js, REST APIs |
+| **Data Engineering** | Databricks, PySpark, Arquitetura Medalhão, dbt |
+| **Bancos de Dados** | PostgreSQL, MySQL, MongoDB, Redis, BigQuery |
+| **Cloud & DevOps** | Azure (Certified), AWS (Certified), Docker, Git |
 
 ---
 
-### 🏆 Experiência & Projetos
+## 🏆 Certificações & Comunidade
 
-#### 🔹 Sustentação de CRM & Dados | *Habilis*
-* **O Papel:** Manutenção de código e garantia da integridade de dados.
-* **Atividades:**
-    * Manutenção e evolução de funcionalidades no CRM da empresa utilizando **React** e **TypeScript**.
-    * Monitoramento de pipelines **ETL** que alimentam dashboards estratégicos de controle interno no **Power BI**.
-      
-#### 🔹 Engenharia de Software & Dados | *Investtools*
-* **O Papel:** Estagiária nas Squads de Desenvolvimento e Dados.
-* **Atividades:**
-    * **Dev:** Desenvolvimento e manutenção de APIs e serviços backend para sistemas financeiros.
-    * **Dados:** Manutenção de pipelines de dados e suporte à infraestrutura em nuvem (**AWS/GCP**).
-
-#### 🔹 Previsão Hidrológica com IA | *Mestrado (UEMS)*
-* **O Projeto:** Modelo preditivo usando **Redes Neurais (LSTM)**.
-* **Tech:** Processamento de 30 anos de dados hidrometeorológicos para previsão de vazões e gestão de risco hídrico.
+- ☁️ **AWS Certified Cloud Practitioner** 
+- 🤖 **Microsoft Certified: Azure AI Fundamentals** 
+- 💜 **Embaixadora Developer Girls**: Atuação ativa no fomento à presença feminina e compartilhamento de conhecimento na tecnologia.
 
 ---
 
-### 💜 Comunidade & Certificações
+## 📫 Vamos construir algo juntos?
 
-* **Embaixadora Developer Girls:** Atuo no networking e divulgação de iniciativas para mulheres na tecnologia.
-* **Certificações:**
-    * ☁️ AWS Certified Cloud Practitioner (CLF-C02)
-    * 🤖 Microsoft Certified: Azure AI Fundamentals (AI-900)
+- 💼 **Serviços:** Consultoria em Dados, Desenvolvimento Backend e Automações.
+- 💬 **Contato:** https://www.linkedin.com/in/ana-paula-leao | anapaulalapas@gmail.com 
 
 ---
-
-### 📫 Vamos trabalhar juntos?
-
-Tem um sistema precisando de ajustes ou dados precisando de organização?
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/ana-paula-leao" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:anapaulalapas@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
+"Vim da Engenharia Ambiental para construir ecossistemas digitais sustentáveis e inteligentes." 🌿💻
